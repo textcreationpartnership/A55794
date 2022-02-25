@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ready way to everlasting life, or, A perfect remedy against the poyson of sin in this little book is contained many severall and excellent vertues ... / by L.P.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55794</idno>
+            <idno type="STC">Wing P3381</idno>
+            <idno type="STC">ESTC R36690</idno>
+            <idno type="EEBO-CITATION">15986922</idno>
+            <idno type="OCLC">ocm 15986922</idno>
+            <idno type="VID">104670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ready way to everlasting life, or, A perfect remedy against the poyson of sin in this little book is contained many severall and excellent vertues ... / by L.P.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L. Gilbertson,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Laurence Price.</note>
+                  <note>Imperfect: torn, tightly bound, with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104670:1"/>
+            <!-- PDF PAGE 52 -->
+            <pb facs="tcp:104670:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <p>THE READY WAY to Everlaſting Life: OR, A perfect Remedy againſt the Poyſon of SIN.</p>
+            <p>In this little Book is contained many ſeve<g ref="char:EOLhyphen"/>rall and excellent vertues, which being wel read, heard, underſtood, and made uſe of, it will both direct and inſtruct all ſorts of people old and young, rich and poor, men and women, and children, how to order their lives in this world, ſo that they may enjoy the bleſſings which Chriſt hath prepared for them in the world to come, which is life Everlaſting.</p>
+            <q>
+               <l>
+                  <hi>Here is Conſolation for the Soul.</hi>
+               </l>
+               <l>
+                  <hi>Here is comfort for the Body.</hi>
+               </l>
+               <l>
+                  <hi>Here is eaſe for a troubled Conſcience.</hi>
+               </l>
+               <l>
+                  <hi>And here is content for the mind.</hi>
+               </l>
+            </q>
+            <q>O hear ye this all ye people, ponder it with your Eares, all ye that dwell in the world, high and low, rich and poore, one with another.
+<bibl>
+                  <hi>Pſal. 29.1, 2.</hi>
+               </bibl>
+            </q>
+            <p>By, L. P.</p>
+            <p>Printed for R. Gilbertſon. 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:104670:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <pb n="1" facs="tcp:104670:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 53 -->
+            <head>The ready way to Everlaſting Life: <hi>OR,</hi> A perfect Remedy againſt the Poyſon of Sin.</head>
+            <p>IN the firſt place, my invitations I prefer to all people, but eſpecially to them that are ſtricken in age, and are ready to go to to their Grave. I invite you therfore to obſerve thoſe directions which are neceſſary for Sal<g ref="char:EOLhyphen"/>vation; and withall to conſider what a ſmal quantity of time you have to live in the world: we read in the Scriptures that <hi>Adam</hi> lived nine hundred and 30 years, and he dyed, <hi>Seth</hi> lived nine hun<g ref="char:EOLhyphen"/>dred and 12 yeares, and he dyed, and alſo the dayes of <hi>Canaan</hi> was nine hun<g ref="char:EOLhyphen"/>dred and ten years, and he dyed, and all the days of <hi>Methaſala</hi> was 9 hundred ſixty and nine years, and he dyed, as you may read it large in the 5. Chap.
+<pb n="2" facs="tcp:104670:3"/>
+               <!-- PDF PAGE 54 -->of <hi>Geneſis.</hi> We alſo read and know that <hi>David</hi> was a valiant man, <hi>Solomon</hi> a wiſe man, <hi>Sampſon</hi> a ſtrong man, Abſolon a beautiful man, and <hi>Adam</hi> a rich man, for the Lord God made him Lord and Maſter of all other creatures, <hi>Gen.</hi> 1, 28. yet all thoſe dyed, &amp; as they came from the Earth, even ſo they returned to the duſt. What reaſon hath any man there<g ref="char:EOLhyphen"/>fore in our times to flatter themſelves &amp; to forget that they muſt all go to the earth from whence they came, ſeeing by daily experience that no man can add one Cubite to his own ſtature, nor no man can prolong his own life one hour, nor can all the men of the world reſiſt the will of God, for Gods will muſt be done both in earth and in heaven, as you may read in <hi>Mathew</hi> the 5.</p>
+            <p>Is the caſe ſo plain then, that all men muſt in a ſhort ſpace forſake the world for ever? why then I would intreat all men to follow theſe directions, and to forſake ſin before ſin forſake them.</p>
+            <pb n="3" facs="tcp:104670:3"/>
+            <!-- PDF PAGE 54 -->
+            <p>Moreover I would deſire every man and woman that as they would prepare and make themſelves ready to goe to a rich and glorious wedding on the very next morrow where is all kinds of vari<g ref="char:EOLhyphen"/>eties of what your hearts can crave, or your tongue ask for, ſo would I have you every day to make ready &amp; prepare your ſelves to go to God, as one that have a long journey to go, or to ride, will be up early in the morning to ſet forward on the way leſt by his negli<g ref="char:EOLhyphen"/>gence he ſhould come too late to his journies end, and ſo be kept out of his appointed lodging: in the like manner I would intreat all thoſe that are willing to be the Servants and Diſciples of our Lord and Maſter <hi>Jeſus Chriſt,</hi> to prepare themſelves with all ſpeed that poſſible they may, or can, to come to the place where their Lord and Maſter is, which is indeed a place of happineſſe: there is mirth without mourning, joy without ſorrowing, there is light without dark<g ref="char:EOLhyphen"/>neſſe,
+<pb n="4" facs="tcp:104670:4"/>
+               <!-- PDF PAGE 55 -->and life without death, where they that are once brought in, ſhall never be turned out, to which happy and Hea<g ref="char:EOLhyphen"/>venly place the Lord in his good time bring us all, Amen.</p>
+            <p>The ready way to the Everlaſting place which is before ſpoken of, I ſhall by Gods aſſiſtance direct you unto.</p>
+            <p>Your way muſt be, Firſt to ask God forgiveneſſe for all the time you have miſpent, and every day, and every hour to repent you of your wicked living in this ſinfull world: you muſt henceforth whilſt you do live in this world, Pray unto God to give you grace and the aſ<g ref="char:EOLhyphen"/>ſiſtance of his Holy Spirit, ſo that you may ever hereafter ſerve God &amp; obey his holy word and will in a better man<g ref="char:EOLhyphen"/>ner then you have don heretofore; you muſt alſo deal your bread to the <hi>hungry</hi> cloath the naked, ſuffer the harborleſſe comfort the fatherleſſe, be good to the poor diſtreſſed widdows, viſit the ſick, and according to your ability do good
+<pb n="5" facs="tcp:104670:4"/>
+               <!-- PDF PAGE 55 -->to all men that are in want; for he that ſtopeth his ears at the cries of the poor, ſhall cry himſelfe and not be heard. <hi>Proverhs</hi> the 10.</p>
+            <p>Moreover, you muſt not think that when you have done thoſe good things which are ere ſpoken of, that you have done enough to bring your ſoul to hea<g ref="char:EOLhyphen"/>ven without any more to doe, but you muſt believe in <hi>God</hi> the <hi>Father, Son</hi> and <hi>Holy-Ghoſt,</hi> and how that Chriſt came that was the only Son of God the father into this world, on purpoſe to ſave the ſouls of all true repenting ſinners, and to be Tormented for us here in this world, becauſe we ſhould not be Tor<g ref="char:EOLhyphen"/>mented in the world to come: as it may appeare in all parts of the Scriptures, which were written from the time of the worlds creation to the latter end of the holy Bible Book, but moſt chiefly the 4 Evangeliſts have every one diſ<g ref="char:EOLhyphen"/>cribed the manner of his comming into the world, the time of his life, the day
+<pb n="6" facs="tcp:104670:5"/>
+               <!-- PDF PAGE 56 -->of his death, and in what manner, and for what cauſe he dyed: whilſt he lived on the earth he ſhewed wonders &amp; did miracles, he made the blind to ſee, the lame to go, and raiſed the dead to life; al which was done to make it known to all the world that he was the wonder<g ref="char:EOLhyphen"/>ful and powerfull <hi>ſon</hi> of <hi>God,</hi> and able to doe whatſoever it pleaſed his Father to have done, &amp; to put us in remembrance and believe that he is the Saviour and redeemer of al that truſt in him; further more, for our ſake he ſuffered hunger, thirſt, cold, impriſonment, reproachfull words, ſpightful deeds, bitter ſtripes, falſe accuſations, taunts and ſcornes, Buffeting, Whippings, and Spittings on the face; And at the laſt, he was Cru<g ref="char:EOLhyphen"/>cified upon a bloody piece of Timber, between 2 notorious malefactors, being nailed faſt on the Croſs through hands and feet: and now let all Chriſtians not only look upon, but alſo remember to think upon, what Chriſt our Lord hath
+<pb n="7" facs="tcp:104670:5"/>
+               <!-- PDF PAGE 56 -->undergone to redeeme our ſouls from the ſlavery of the divel, to bring us into the ſounder belief; conſider what was brought to paſſe through the power of the Almighty after that the Villaines had ſo cruelly murdered Chriſt, which was, and is a King of Kings, and Lord of Lords, <hi>Revelations:</hi> 19, 10. They took him down from the Croſſe, they laid him in a grave where never none was laid before; they roul'd a mighty great ſtone againſt the Sepulchre door, they hired watchmen to keep all faſt, and to be brief, they thought they had made all things ſo ſure, that Chriſt his body ſhould never be removed therehence in haſt, but by the great power of the <hi>Lord</hi> there came a Heavenly Angel to the door of the Sepulchre and rould away the ſtone which was laid to keep Chriſt in the Grave; mean while the <hi>watchmen</hi> being ſorely amazed at the ſight of the Angel, they ran away trembling with fear, ſo Chriſt aroſe from the dead, and
+<pb n="8" facs="tcp:104670:6"/>
+               <!-- PDF PAGE 57 -->the grav have no more power over him after that he appeared to his Diſciple, and to others ſeveral times to ſhew that he was recovered, and that he had over<g ref="char:EOLhyphen"/>come death, but <hi>Thomas</hi> one of his diſ<g ref="char:EOLhyphen"/>ciples would not believe that the Lord was riſen from death, til ſuch time that he put his finger into the wound which the ſpear had pierced, &amp; ſeen his hand which had been nayled to the Croſſe: wherefore our <hi>Saviour Chriſt</hi> came into the place bodily where <hi>Thomas</hi> was, and ſhewed him the ſide which the Speare had pierced, and the hands and feet of his which had bin nailed to the bloody tree; which when <hi>Thomas</hi> had ſeen and felt, (he confeſſed and ſaid unto Chriſt, thou art my Lord my God) but Jeſus ſaith unto him, <hi>Thomas, Becauſe thou haſt ſeen me, thou haſt believed me, Bleſſed are they that have not ſeen and have be<g ref="char:EOLhyphen"/>lieved. Johns Goſpell,</hi> 20, 28. All this done to ſtrengthen our beliefe, and to ſhew us that as he himſelf is riſen from
+<pb n="9" facs="tcp:104670:6"/>
+               <!-- PDF PAGE 57 -->the dead and aſcended into heaven, ſo can he alſo raiſe &amp; quicken us if we lay hold on him, truſt in him, &amp; faithfully believe that he came into the world &amp; ſuffered all thoſe things to be done for his love that he bore unto mankind, &amp; to ſave out ſouls from perpetuall dam<g ref="char:EOLhyphen"/>nation. God in his mercy give us grace to make good uſe of our times, and ſo behave our ſelves, whilſt we remaine in this world, that after this life is ended we may injoy everlaſting happineſs in the Kingdome of Heaven with God the Father, through the mighty merits of <hi>Jeſus Chriſt</hi> his only Son, to whom with the Holy Ghoſt be aſcribed all honour, glory, power, praiſe, might Majeſty &amp; thanksgiving, both in this world and in the world to come, Amen.</p>
+            <p>The next matter is here to be expreſt is inſtructions for youth, which if youth will obſerve and follow they ſhall find it to be ſweeter then the hony, and the hony comb. <hi>Pſalm,</hi> 19.</p>
+            <pb n="10" facs="tcp:104670:7"/>
+            <!-- PDF PAGE 58 -->
+            <p>
+               <hi>Solomon</hi> the wiſe bids his Son delay no time, but ſaith thus to all; <hi>Remember thy Creator in the dayes of thy Youth,</hi> as you may read, <hi>Eccleſ.</hi> 12, 1. which ſen<g ref="char:EOLhyphen"/>tence of his may very well agree with the proverb, <hi>How that, that which is bred in the bone will never out of the fleſh,</hi> ſo I ſay, that he or ſhe that will not ſerve God when they are young, will hardly be brought to do God any good ſervice when they are old: wherefore I deſire all ſorts of youthfull people to have a ſpeciall regard to what ſhall be ſpoken, and withall to do their beſt endeavour to follow theſe inſtructions, <hi>Epheſians 6 Children obey your Parents in the Lord, &amp; Honour your Fathers and Mothers, ſo ſhall your dayes be long. and your lives happy.</hi>
+            </p>
+            <p>The cauſe why ſo many youthful peo<g ref="char:EOLhyphen"/>ple now a days run head-long into deſ<g ref="char:EOLhyphen"/>perate dangers and ſudden miſchiefs, is this, becauſe they will not hearken un<g ref="char:EOLhyphen"/>to the words of wiſe <hi>Solomon,</hi> who ſaith thus: <hi>My Son attend unto wiſdome, and
+<pb n="11" facs="tcp:104670:7"/>
+                  <!-- PDF PAGE 58 -->how down thine eares to underſtanding, Proverbs</hi> 5. Beloved theſe are precious words, and worth the hearkning unto, for He or She that hath underſtanding can never do amiſſe let the world run which way ſoever it will, a wiſe man will be content with what Eſtate or condition ſoever he be in, whether it be riches or poverty, ſicknes or health, op<g ref="char:EOLhyphen"/>preſſion or liberty, right or wrong, all's one to a wiſe man, for he putteth his truſt in God, who will ſurely deliver him out of all his troubles in due time, according as <hi>David</hi> the Prophet ſaith, in his Pſallms, Many and numberleſſe are the Troubles of the Righteous: but the Lord delivers them out of all againe: A wiſe man is able to undergo and endure reproachfull words, evill Actions, Abuſive Deeds; Spightfull Neighbours, Unkind Kindreds: Ye and although it were ſo that the whole World ſhould ſet themſelves againſt him, yet he is ſure that they
+<pb n="12" facs="tcp:104670:8"/>
+               <!-- PDF PAGE 59 -->can do no more to him then God will give them leave to do for he hath lear<g ref="char:EOLhyphen"/>ned ſuch a faithfull leſſon of his Maſter <hi>Chriſt Jeſus,</hi> that he can ſay with a ſafe conſcience: <hi>Bleſſed are they that are per<g ref="char:EOLhyphen"/>ſecuted for righteouſneſs ſake,</hi> as you may read, <hi>Mat</hi> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, 10.</p>
+            <p>Beſides a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this, wiſdome hath a great many Vertues belonging unto her which have not yet been ſpoken of, as it ſhall preſently be made known to all that will give eare to what ſhall be ex<g ref="char:EOLhyphen"/>preſt in this profitable diſcourſe.</p>
+            <p>If any one deſires to be rich, let them repair unto Wiſedome, for without Wiſedome there is no good to be done: a wiſe wan is able to diſcern the good from the bad, the juſt from the unjuſt, the right from the wrong, and he that findeth wiſdom, findeth life, and ſhall obtaine favour of the Lord, and how can a man be poor, that hath thoſe bleſſings beſtowed upon him? Proverbs 8, 35.</p>
+            <pb n="13" facs="tcp:104670:8"/>
+            <!-- PDF PAGE 59 -->
+            <p>Furthermore, a wiſe man will take heed of what company he comes into; for a man cannot touch pitch but he muſt be defiled! Good wine is choſen by the ſmell, by the colour, and by the taſte, ſo muſt you chuſe your Compa<g ref="char:EOLhyphen"/>nions by their Religions by Wiſdome and by vertue, doth not very days ex<g ref="char:EOLhyphen"/>perience tell us, How that they which goes &amp; commonly hannteth evil com<g ref="char:EOLhyphen"/>pany, are counted to be as bad as them<g ref="char:EOLhyphen"/>ſelves; And have we not heard nor known, that at ſometimes there have true men bin taken in thieves compa<g ref="char:EOLhyphen"/>nies and all ſent to Priſon together Yea, and ſome have loſt their livs only by keeping of evill company.</p>
+            <p>It is an old ſaying, that company is good whether it be to Heaven, or to Hell; but I ſay thus, that one were bet<g ref="char:EOLhyphen"/>ter go to Heaven alone, then to Hell with a multitude of Wicked People: And better it is to be alone by ones ſelf then to be in company with Ungodly
+<pb n="14" facs="tcp:104670:9"/>
+               <!-- PDF PAGE 60 -->people; a man cannot lie amongſt dogs but he muſt be bitten with fleas, nor can any one haunt and be in evill com<g ref="char:EOLhyphen"/>pany, but he muſt be evill thought on and ſpoken of, therefore I deſire all peo<g ref="char:EOLhyphen"/>ple, whether they be old or young, to be wiſe and to flye from ſin, as they would flye from a biting Viper; and al<g ref="char:EOLhyphen"/>ſo to flye from evill company, as you would flye from the Divell.</p>
+            <p>And now to conclude, I deſire you all to obſerve and make good uſe of theſe inſtructions, and to lead your lives in ſuch a godly manner whilſt you remain in this world, ſo that after this life en<g ref="char:EOLhyphen"/>ded, <hi>Chriſt</hi> may receive your ſouls into his heavenly Kingdome, <hi>Where is Joy world without end.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104670:9"/>
+            <!-- PDF PAGE 60 -->
+         </div>
+      </body>
+   </text>
+</TEI>
